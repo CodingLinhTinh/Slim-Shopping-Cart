@@ -30,6 +30,7 @@
 --><b>Autostart of modules</b>: Nhấn vào Apache, MySQL --> Save => Nó sẽ tự khởi động server cùng với máy tính.
 
 * Sử dụng composer(v7.x.x) để cài tất cả:
+
 ---> Slim 
 <code>
     composer require slim/slim "^3.0"
