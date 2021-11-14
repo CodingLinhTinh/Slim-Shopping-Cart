@@ -24,9 +24,10 @@
 
 * XAMPP download👇👇
 
-<a href="https://www.apachefriends.org/download.html">
-    Download Here
-</a>
+
+    <a href="https://www.apachefriends.org/download.html">
+        Download Here
+    </a>
 
 * Trong XAMPP Control Panel
 -->Nhấn vào <b>Config</b> ở góc phải màn hình.
