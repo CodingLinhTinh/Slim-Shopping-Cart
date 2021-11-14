@@ -96,7 +96,7 @@
 * Mở SQL trong XAMPP theo đường dẫn <a href="http://localhost:80/phpmyadminh"> http://localhost:80/phpmyadminh</a> | <a href="http://localhost:8080/phpmyadmin"> http://localhost:8080/phpmyadmin</a>
 * Tạo một database mới đặt tên là 'cart'(có thể thay đổi trong file .env), sử dụng file 'db_schema.sql' để tạo bảng.
 
-## 📫 Contributing to BlockChain Basic with Node.js, TypeScript
+## 📫 Contributing to Slim Shopping Cart
 Để đóng góp Slim-Shopping-Cart hãy làm theo các bước sau:
 
     >1. Fork kho lưu trữ này.
