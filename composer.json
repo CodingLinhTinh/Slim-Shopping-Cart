@@ -1,0 +1,18 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "illuminate/database": "^5.4",
+        "php-di/slim-bridge": "^1.1.0",
+        "vlucas/phpdotenv": "^2.4",
+        "respect/validation": "^1.1",
+        "ircmaxell/random-lib": "^1.2",
+        "slim/twig-view": "2.1.1",
+        "braintree/braintree_php": "3.22"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Cart\\": "app"
+        }
+    }
+}
