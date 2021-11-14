@@ -7,9 +7,11 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/codinglinhtinh/Slim-Shopping-Cart?style=for-the-badge)
 
 ## Description
->Một mô hình thanh toán dạng sandbox
->Sử dụng Braintree, thanh toán thông qua PayPal
->Áp dụng PHP framework: Slim 3.0
+>Một mô hình thanh toán dạng sandbox.
+
+>Sử dụng Braintree, thanh toán thông qua PayPal.
+
+>Áp dụng PHP framework: Slim 3.0.
 
 ## Getting Started
 ### 💻 Dependencies
