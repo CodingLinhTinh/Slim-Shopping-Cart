@@ -6,6 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/codinglinhtinh/Slim-Shopping-Cart?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/codinglinhtinh/Slim-Shopping-Cart?style=for-the-badge)
 
+
 ## Description
 >Một mô hình thanh toán dạng sandbox.
 
@@ -39,11 +40,13 @@
     composer require slim/slim "^3.0"
 </code>
 
+
 ---> Illuminate/database
 
 <code>
     composer require illuminate/database "^5.4"
 </code>
+
 
 ---> Slim-bridge
 
@@ -51,11 +54,13 @@
     composer require php-di/slim-bridge "^1.1.0"
 </code>
 
+
 ---> Vlucas/phpdotenv
 
 <code>
     composer require vlucas/phpdotenv "^2.4"
 </code>
+
 
 ---> Respect/validation
 
@@ -63,11 +68,13 @@
     composer require respect/validation "^1.1"
 </code>
 
+
 ---> Ircmaxell/random-lib
 
 <code>
     composer require ircmaxell/random-lib "^1.2"
 </code>
+
 
 ---> Slim/twig-view
 
@@ -75,11 +82,13 @@
     composer require slim/twig-view "^2.1.1"
 </code>
 
+
 ---> Braintree/braintree_php
 
 <code>
     composer require braintree/braintree_php "^3.22"
 </code>
+
 
 ### 🚀 Executing program
 
