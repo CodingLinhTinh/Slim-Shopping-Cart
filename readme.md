@@ -131,3 +131,6 @@ This project is licensed under the ISC License.
 ⭐<a href="https://github.com/CodingLinhTinh/Node.js-blockchain-basic.git">BlockChain Basic with Node.js, TypeScript</a>
 
 ⭐<a href="https://github.com/CodingLinhTinh/Cookies-Auto-Clicking-Bot.git">Cookies-Auto-Clicking-Bot</a>
+
+⭐<a href="https://github.com/CodingLinhTinh/Instagram-Auto-Follow-Bot.git">Instagram-Auto-Follow-Bot</a>
+
